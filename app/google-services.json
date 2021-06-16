@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "57216183537",
+    "firebase_url": "https://augercsachecker.firebaseio.com",
+    "project_id": "augercsachecker",
+    "storage_bucket": "augercsachecker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57216183537:android:bfe6d7e89b43fa3a",
+        "android_client_info": {
+          "package_name": "com.example.fcontreras.augercsachecker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57216183537-0hltqgv0flc93n4cvfhja5s7cq21rmrb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fcontreras.augercsachecker",
+            "certificate_hash": "0ad4ef85d6c8742454b2dfc2a0c25764cd7c63b9"
+          }
+        },
+        {
+          "client_id": "57216183537-cl1ngqofm8ien6660lqv9uaj3vgdeu62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjA_q2iqLIYWkRXaldzJ_sgObUNKnCUoU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57216183537-cl1ngqofm8ien6660lqv9uaj3vgdeu62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
